@@ -92,7 +92,7 @@ const quickList = [
         link: '#',
     },
     {
-        text: 'Forums',
+        text: 'Forum',
         link: '#',
     },
     {
